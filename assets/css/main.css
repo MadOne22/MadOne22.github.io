@@ -3249,31 +3249,31 @@
 			}
 
 		.wrapper.alt {
-			background-color: #0A1C28;
+			background-color: #70AACF;
 		}
 
 		.wrapper.style1 {
-			background-color: #41848F;
+			background-color: #708CCF;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #72A7A3;
+			background-color: #6983CF;
 		}
 
 		.wrapper.style2 {
-			background-color: #97C0B7;
+			background-color: #636DCF;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3CA774;
+			background-color: #5B5CCF;
 		}
 
 		.wrapper.style3 {
-			background-color: #3CA774;
+			background-color: #6955CF;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #3CA774;
+			background-color: #604BCF;
 		}
 
 		.wrapper.fullscreen {
@@ -3380,7 +3380,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #6296AE;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
