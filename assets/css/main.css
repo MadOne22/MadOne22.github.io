@@ -3249,23 +3249,23 @@
 			}
 
 		.wrapper.alt {
-			background-color: #70AACF;
+			background-color: #261c3e;
 		}
 
 		.wrapper.style1 {
-			background-color: #CFB3CE;
+			background-color: #5e42a6;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #CFB3CE;
+			background-color: #493382;
 		}
 
 		.wrapper.style2 {
-			background-color: #636DCF;
+			background-color: #5052b5;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #5B5CCF;
+			background-color: #3e4094;
 		}
 
 		.wrapper.style3 {
@@ -3273,7 +3273,7 @@
 		}
 
 		.wrapper.style3-alt {
-			background-color: #604BCF;
+			background-color: #953d75;
 		}
 
 		.wrapper.fullscreen {
@@ -3771,7 +3771,7 @@
 			}
 
 			#sidebar nav a:before {
-				background: #53A771;
+				background: #3c2c62;
 			}
 
 			#sidebar nav a:after {
